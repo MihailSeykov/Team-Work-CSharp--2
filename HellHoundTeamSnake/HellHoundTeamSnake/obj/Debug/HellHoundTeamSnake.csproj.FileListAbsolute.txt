@@ -1,0 +1,6 @@
+c:\users\stefan\documents\visual studio 2013\Projects\HellHoundTeamSnake\HellHoundTeamSnake\bin\Debug\HellHoundTeamSnake.exe.config
+c:\users\stefan\documents\visual studio 2013\Projects\HellHoundTeamSnake\HellHoundTeamSnake\bin\Debug\HellHoundTeamSnake.exe
+c:\users\stefan\documents\visual studio 2013\Projects\HellHoundTeamSnake\HellHoundTeamSnake\bin\Debug\HellHoundTeamSnake.pdb
+c:\users\stefan\documents\visual studio 2013\Projects\HellHoundTeamSnake\HellHoundTeamSnake\obj\Debug\HellHoundTeamSnake.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2013\Projects\HellHoundTeamSnake\HellHoundTeamSnake\obj\Debug\HellHoundTeamSnake.exe
+c:\users\stefan\documents\visual studio 2013\Projects\HellHoundTeamSnake\HellHoundTeamSnake\obj\Debug\HellHoundTeamSnake.pdb
